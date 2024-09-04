@@ -323,6 +323,7 @@ body::after {
     font-family: "Bebas Neue";
     padding: 10px 20px;
     font-size: 40px;
+    letter-spacing: 8px;
 }
 
 
